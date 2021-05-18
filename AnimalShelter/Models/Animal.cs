@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System;
 
 namespace AnimalShelter.Models
 {
@@ -10,6 +11,5 @@ namespace AnimalShelter.Models
     public string Gender { get; set; }
     public DateTime DateOfAdmittance { get; set; }
     public string Breed { get; set; }
-
   }
 }
