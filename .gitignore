@@ -1,8 +1,8 @@
-obj/
-bin/
+*/obj/
+*/bin/
 .vscode/
 node_mudules
 .DS_Store
 coverage/
 .env
-*/appsttings.json
+*/appsettings.json
